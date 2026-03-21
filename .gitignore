@@ -1,16 +1,4 @@
 node_modules/
 .env
 .env.local
-.env.*.local
 .next/
-out/
-build/
-dist/
-.DS_Store
-*.swp
-*.swo
-*~
-.vscode/
-.idea/
-*.log
-.cache/
